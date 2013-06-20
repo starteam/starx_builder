@@ -1,1 +1,1 @@
-This is holding repository that build a website
+This is holding repository that build a website.
