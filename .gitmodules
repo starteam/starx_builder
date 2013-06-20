@@ -1,0 +1,12 @@
+[submodule "starorf_html"]
+	path = starorf_html
+	url = git@github.com:starteam/starorf_html.git
+[submodule "stardistancemap_html"]
+	path = stardistancemap_html
+	url = git@github.com:starteam/stardistancemap_html.git
+[submodule "starx"]
+	path = starx
+	url = git@github.com:starteam/starx.git
+[submodule "starbiochem_html"]
+	path = starbiochem_html
+	url = git@github.com:starteam/starbiochem_html.git
